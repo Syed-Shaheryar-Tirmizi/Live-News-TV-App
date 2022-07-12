@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/live_drawer"
+            android:icon="@drawable/tvicon"
+            android:title="Live TV" />
+        <item
+            android:id="@+id/home_drawer"
+            android:icon="@drawable/home"
+            android:title="Home" />
+        <item
+            android:id="@+id/business_drawer"
+            android:icon="@drawable/newspaper"
+            android:title="Business" />
+        <item
+            android:id="@+id/internationa_drawer"
+            android:icon="@drawable/international"
+            android:title="International" />
+        <item
+            android:id="@+id/sports_drawer"
+            android:icon="@drawable/sports"
+            android:title="Sports" />
+        <item
+            android:id="@+id/technology_drawer"
+            android:icon="@drawable/technology"
+            android:title="Technology" />
+        <item
+            android:id="@+id/health_drawer"
+            android:icon="@drawable/health"
+            android:title="Health" />
+        <item
+            android:id="@+id/lifestyle_drawer"
+            android:icon="@drawable/lifestyle"
+            android:title="Life Style" />
+        <item
+            android:id="@+id/videos_drawer"
+            android:icon="@drawable/religion"
+            android:title="Videos" />
+        <item
+            android:id="@+id/special_drawer"
+            android:icon="@drawable/special"
+            android:title="ARY Special" />
+        <item
+            android:id="@+id/blogs_drawer"
+            android:icon="@drawable/blogging"
+            android:title="Blogs" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/menu_send" />
+        </menu>
+    </item>
+
+</menu>

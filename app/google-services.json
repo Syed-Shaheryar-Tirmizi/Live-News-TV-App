@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "674110814716",
+    "firebase_url": "https://arynews-5af44.firebaseio.com",
+    "project_id": "arynews-5af44",
+    "storage_bucket": "arynews-5af44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674110814716:android:28b2eb1dce5158f5",
+        "android_client_info": {
+          "package_name": "com.syed.ary_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674110814716-bbcm8elunls23jko8dojoh3hhhgl8ve6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.syed.ary_news",
+            "certificate_hash": "0270dd720d54ccd7f54a9de67b4b1dc01f46899c"
+          }
+        },
+        {
+          "client_id": "674110814716-9tca1986fnq8mlb2kugc0c0qmpko27i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgxuEyTkO7VT7guJngm7mrwB52ndvmACw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674110814716-9tca1986fnq8mlb2kugc0c0qmpko27i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

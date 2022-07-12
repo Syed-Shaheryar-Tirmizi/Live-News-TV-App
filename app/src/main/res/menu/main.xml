@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mute"
+        android:orderInCategory="100"
+        android:title="Sound"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/livetv"
+        android:icon="@drawable/whitetv"
+        android:iconTint="#fff"
+        android:orderInCategory="100"
+        android:title="Live TV"
+        app:showAsAction="always" />
+
+
+
+</menu>
